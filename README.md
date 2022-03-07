@@ -12,6 +12,6 @@
 
 <div>
   <a href="https://github.com/PauloPrudente">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPrudente&layout=compact&langs_count=7&theme=cobalt2"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloPrudente&layout=compact&langs_count=7&theme=default"/>
 </div>
  </a>
